@@ -1,0 +1,49 @@
+___Section 1 : Connaissances générales
+
+
+1.Qu'est-ce que le développement web, et pourquoi est-il essentiel dans le contexte d'Internet ?
+
+Le développement web c'est l'ensemble des activités liées à la conception, 
+ de sites et d'applications web.
+
+2.Avez-vous entendu parler de HTML ? Si oui, que signifie HTML et 
+quel est son principal objectif dans le développement web ?
+
+Oui, j'ai déjà entendu dire que HTML est un élément fondamental qui contient des balises 
+utilisées pour créer des pages web. 
+Il sert à établir la structure d'un document en employant différentes balises 
+pour organiser des textes, des images, des liens et d'autres éléments.
+
+
+___Section 2 : Familiarité avec CSS
+
+
+Êtes-vous familier avec CSS ? Si oui, expliquez brièvement à quoi sert CSS
+ dans le développement web.
+
+Oui, CSS c'est un langage de style qui permet d'améliorer l'apparence des sites web.
+
+
+___Section 3 : JavaScript et son importance
+
+Avez-vous entendu parler de JavaScript ?
+ Si oui, qu'est-ce que JavaScript et pourquoi est-il crucial pour créer des sites web interactifs ?
+
+Oui, c'est un langage de programmation utilisé pour développer des pages Web interactives .
+
+
+___Section 4 : Introduction à React et Node.js
+
+Êtes-vous familier avec React et Node.js ? Si oui, fournissez une brève description de ce à 
+quoi React et Node.js sont généralement utilisés dans le développement web.
+
+Non, mais je connais que React c'est une bibliothéque de Javascript.
+
+
+___Section 5 : Question bonus
+
+Pourquoi voulez-vous apprendre le développement web, et qu'espérez-vous réaliser 
+en acquérant des compétences en HTML, CSS, JavaScript, React et Node.js ?
+
+Je souhaite apprendre le développement web car j'aime ce domaine,
+et j'ai l'intention de développer mes compétences dans ce domaine à l'avenir.
